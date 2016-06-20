@@ -8,6 +8,7 @@ import init
 
 
 import users.a.g8.ag8_40323123_task2
+import users.a.g8.ag8_40323154
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
 # 設定在雲端與近端的資料儲存目錄
@@ -33,7 +34,6 @@ app = Flask(__name__)
 # In order to use sessions you have to set a secret key
 # set the secret key.  keep this really secret:
 app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
-
 
 
 
@@ -379,3 +379,4 @@ if __name__ == "__main__":
     app.run()
 
 app.register_blueprint(users.a.g8.ag8_40323123_task2.ag8_test)
+app.register_blueprint(users.a.g8.ag8_40323154.a40323154)
