@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ddss-40323123.rhcloud.com/static/blog/</loc>
-<lastmod>2016-06-20T11:49:41-00:00</lastmod>
+<lastmod>2016-06-20T11:51:11-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ddss-40323123.rhcloud.com/static/blog/archives.html</loc>
-<lastmod>2016-06-20T11:49:41-00:00</lastmod>
+<lastmod>2016-06-20T11:51:11-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ddss-40323123.rhcloud.com/static/blog/tags.html</loc>
-<lastmod>2016-06-20T11:49:41-00:00</lastmod>
+<lastmod>2016-06-20T11:51:11-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ddss-40323123.rhcloud.com/static/blog/categories.html</loc>
-<lastmod>2016-06-20T11:49:41-00:00</lastmod>
+<lastmod>2016-06-20T11:51:11-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ddss-40323123.rhcloud.com/static/blog/40323154-cdw18-qi-mo-bao-gao.html</loc>
+<lastmod>2016-06-20T11:50:55+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -68,14 +75,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ddss-40323123.rhcloud.com/static/blog/category/ag8.html</loc>
-<lastmod>2016-06-20T11:47:40+08:06</lastmod>
+<lastmod>2016-06-20T11:50:55+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ddss-40323123.rhcloud.com/static/blog/tag/cdw18.html</loc>
-<lastmod>2016-06-20T11:23:50+08:06</lastmod>
+<lastmod>2016-06-20T11:50:55+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ddss-40323123.rhcloud.com/static/blog/tag/40323154.html</loc>
+<lastmod>2016-06-20T11:50:55+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -88,13 +102,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ddss-40323123.rhcloud.com/static/blog/tag/40323199.html</loc>
-<lastmod>2016-06-20T08:38:57+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://ddss-40323123.rhcloud.com/static/blog/tag/40323143.html</loc>
 <lastmod>2016-06-20T11:23:50+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -102,14 +109,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ddss-40323123.rhcloud.com/static/blog/tag/40323131.html</loc>
-<lastmod>2016-06-20T11:47:40+08:06</lastmod>
+<loc>http://ddss-40323123.rhcloud.com/static/blog/tag/40323199.html</loc>
+<lastmod>2016-06-20T08:38:57+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ddss-40323123.rhcloud.com/static/blog/tag/cdw17.html</loc>
+<lastmod>2016-06-20T11:47:40+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ddss-40323123.rhcloud.com/static/blog/tag/40323131.html</loc>
 <lastmod>2016-06-20T11:47:40+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -125,6 +139,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://ddss-40323123.rhcloud.com/static/blog/author/40323131.html</loc>
 <lastmod>2016-06-20T11:47:40+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ddss-40323123.rhcloud.com/static/blog/author/40323154.html</loc>
+<lastmod>2016-06-20T11:50:55+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

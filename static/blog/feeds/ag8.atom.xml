@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CD期末考週 網頁 (虎尾科大MDE)</title><link href="http://ddss-40323123.rhcloud.com/static/blog/" rel="alternate"></link><link href="http://ddss-40323123.rhcloud.com/static/blog/feeds/ag8.atom.xml" rel="self"></link><id>http://ddss-40323123.rhcloud.com/static/blog/</id><updated>2016-06-20T11:47:40+08:00</updated><entry><title>40323131 cdw17 報告</title><link href="http://ddss-40323123.rhcloud.com/static/blog/40323131-cdw17-bao-gao.html" rel="alternate"></link><updated>2016-06-20T11:47:40+08:00</updated><author><name>40323131</name></author><id>tag:ddss-40323123.rhcloud.com,2016-06-20:static/blog/40323131-cdw17-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw17 協同專案&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CD期末考週 網頁 (虎尾科大MDE)</title><link href="http://ddss-40323123.rhcloud.com/static/blog/" rel="alternate"></link><link href="http://ddss-40323123.rhcloud.com/static/blog/feeds/ag8.atom.xml" rel="self"></link><id>http://ddss-40323123.rhcloud.com/static/blog/</id><updated>2016-06-20T11:50:55+08:00</updated><entry><title>40323154 cdw18 期末報告</title><link href="http://ddss-40323123.rhcloud.com/static/blog/40323154-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-20T11:50:55+08:00</updated><author><name>40323154</name></author><id>tag:ddss-40323123.rhcloud.com,2016-06-20:static/blog/40323154-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;完成網際2D鏈條組立、2D齒輪囓合及Onshape的3D齒輪囓合&lt;/p&gt;
+&lt;p&gt;2D鏈條
+左18齒右30齒
+&lt;img src="http://imgur.com/ugBO4UE" width="100%" /&gt;
+下方圖片為一些名詞解釋
+&lt;img src="http://imgur.com/BovwtX5" width="100%" /&gt;
+&lt;img src="http://imgur.com/n9cH6C9" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;轉90度
+&lt;img src="http://imgur.com/JOIK02L" width="100%" /&gt;
+下方圖片為一些名詞解釋
+&lt;img src="http://imgur.com/YsU3h7V" width="100%" /&gt;
+&lt;img src="http://imgur.com/7PNLg54" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;2D齒輪囓合
+&lt;img src="http://imgur.com/LkTdJkj" width="100%" /&gt;
+要將原本導入的資料，換成下圖的資料，便會形成五齒
+&lt;img src="http://imgur.com/TjYhumG" width="100%" /&gt;
+http://imgur.com/FnVzoSe
+&lt;img src="http://imgur.com/FnVzoSe" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;Onshape 3D齒輪&lt;/p&gt;
+&lt;p&gt;一開始，要先呼叫齒輪的特徵，先點擊綠色框框
+&lt;img src="http://imgur.com/EdK7n1G" width="100%" /&gt;
+搜尋spur，選取有齒輪的圖案
+在進行齒輪的參數進行設置，在當中偏轉角度是最重要的
+齒輪在進行組立，要先選取兩齒輪的軸心
+，計算齒數比，兩兩進行囓合
+下方為完成圖
+&lt;img src="http://imgur.com/LbQalmE" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;心得:
+期末報告有三部分，分別為2D鍊條、2D齒輪以及3D齒輪。
+鏈條的繪製，
+我是看著元旭的期末報告來繪製，加上上課有一聽進一部分，因此我鏈條的繪製是這樣產生。
+齒輪方面，老師有提供資料，利用老師所提供的資料來繪製齒輪，在繪製中我們把齒數、節圓半徑、壓力角拉出來當作變數，
+在囓合時，要偏轉一個齒的角度，才可以進行囓合，而且其中心距也是要經過計算才能得到。
+在繪製3D齒輪，由於Onshape有內建的齒輪程式，我們只需要輸入齒輪的參數，就可以直接生成出來，而至於囓合方面，特別注意偏轉角，就可以進行囓合了，再來設定一下齒數比，之後試轉一下，就可以了。&lt;/p&gt;</summary><category term="40323154"></category><category term="cdw18"></category></entry><entry><title>40323131 cdw17 報告</title><link href="http://ddss-40323123.rhcloud.com/static/blog/40323131-cdw17-bao-gao.html" rel="alternate"></link><updated>2016-06-20T11:47:40+08:00</updated><author><name>40323131</name></author><id>tag:ddss-40323123.rhcloud.com,2016-06-20:static/blog/40323131-cdw17-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw17 協同專案&lt;/p&gt;
 
 
 &lt;p&gt;期末報告內容:&lt;/p&gt;
