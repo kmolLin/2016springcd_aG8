@@ -21,15 +21,15 @@
 <v t="amd.20160501220029.2"><vh>@button local pelican</vh></v>
 </v>
 <v t="amd.20160501215942.1" a="E"><vh>@path content/a/g8</vh>
-<v t="leo.20160620084931.1"><vh>@edit 40323123.md</vh></v>
+<v t="leo.20160620084931.1"><vh>@edit 40323154.md</vh></v>
 </v>
 </v>
 </v>
 </v>
 <v t="amd.20160501215545.1" a="E"><vh>wsgi 程式部份</vh>
-<v t="leo.20160620094258.1"><vh>@edit ag8_40323123_task2.py</vh></v>
-<v t="amd.20160501221015.1"><vh>@path ./../../../</vh>
-<v t="amd.20160501221001.1"><vh>@clean myflaskapp.py</vh>
+<v t="leo.20160620094258.1"><vh>@edit ag8_40323154.py</vh></v>
+<v t="amd.20160501221015.1" a="E"><vh>@path ./../../../</vh>
+<v t="amd.20160501221001.1" a="E"><vh>@clean myflaskapp.py</vh>
 <v t="amd.20160501221001.2"><vh>myflaskapp declarations</vh></v>
 <v t="amd.20160501221001.3"><vh>index</vh></v>
 <v t="amd.20160501221001.4"><vh>user</vh></v>
@@ -80,7 +80,8 @@ g.es("admin pelican 近端執行完畢")
 if __name__ == "__main__":
     app.run()
 
-app.register_blueprint(users.a.g8.ag8_40323123_task2.ag8_test)</t>
+app.register_blueprint(users.a.g8.ag8_40323123_task2.ag8_test)
+app.register_blueprint(users.a.g8.ag8_40323154.a40323154)</t>
 <t tx="amd.20160501221001.10">@app.route('/fileaxupload', methods=['POST'])
 # ajax jquery chunked file upload for flask
 def fileaxupload():
@@ -216,6 +217,7 @@ import init
 
 
 import users.a.g8.ag8_40323123_task2
+import users.a.g8.ag8_40323154
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
 # 設定在雲端與近端的資料儲存目錄
@@ -241,7 +243,6 @@ app = Flask(__name__)
 # In order to use sessions you have to set a secret key
 # set the secret key.  keep this really secret:
 app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
-
 
 
 
