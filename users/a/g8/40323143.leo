@@ -1262,8 +1262,8 @@ def spur(cx, cy, m, n, pa, theta):
     cgo.render(Line)
  
 # 3個齒輪的齒數
-n1 = 17
-n2 = 29
+n1 = 30
+n2 = 25
 n3 = 15
  
 # m 為模數, 根據畫布的寬度, 計算適合的模數大小
