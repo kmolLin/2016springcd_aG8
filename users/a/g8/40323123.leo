@@ -27,6 +27,7 @@
 </v>
 </v>
 <v t="amd.20160501215545.1" a="E"><vh>wsgi 程式部份</vh>
+<v t="leo.20160620094258.1"><vh>@edit ag8_40323123_task2.py</vh></v>
 <v t="amd.20160501221015.1" a="E"><vh>@path ./../../../</vh>
 <v t="amd.20160501221001.1"><vh>@clean myflaskapp.py</vh>
 <v t="amd.20160501221001.2"><vh>myflaskapp declarations</vh></v>
@@ -79,7 +80,7 @@ g.es("admin pelican 近端執行完畢")
 if __name__ == "__main__":
     app.run()
 
-</t>
+app.register_blueprint(users.a.g8.ag8_40323123_task2.ag8_test)</t>
 <t tx="amd.20160501221001.10">@app.route('/fileaxupload', methods=['POST'])
 # ajax jquery chunked file upload for flask
 def fileaxupload():
@@ -213,6 +214,8 @@ import os
 # init.py 為自行建立的起始物件
 import init
 
+
+import users.a.g8.ag8_40323123_task2
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
 # 設定在雲端與近端的資料儲存目錄
