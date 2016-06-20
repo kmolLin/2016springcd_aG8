@@ -1,0 +1,1 @@
+ssh://5754f58e89f5cf495700015b@ddss-40323123.rhcloud.com/~/git/ddss.git/
