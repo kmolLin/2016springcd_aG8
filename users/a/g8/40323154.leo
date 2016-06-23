@@ -81,7 +81,7 @@ if __name__ == "__main__":
     app.run()
 
 app.register_blueprint(users.a.g8.ag8_40323123_task2.ag8_test)
-
+app.register_blueprint(users.a.g8.ag8_40323154.a40323154)
 </t>
 <t tx="amd.20160501221001.10">@app.route('/fileaxupload', methods=['POST'])
 # ajax jquery chunked file upload for flask
@@ -217,6 +217,7 @@ import os
 import init
 
 import users.a.g8.ag8_40323123_task2
+import users.a.g8.ag8_40323154
 
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))

@@ -7,6 +7,7 @@ import os
 import init
 
 import users.a.g8.ag8_40323123_task2
+import users.a.g8.ag8_40323154
 
 
 
@@ -383,6 +384,7 @@ if __name__ == "__main__":
 
 app.register_blueprint(users.a.g8.ag8_40323123_task2.ag8_test)
 
-
 app.register_blueprint(users.a.g8.a40323131.ag8_31)
+
+app.register_blueprint(users.a.g8.ag8_40323154.a40323154)
 
