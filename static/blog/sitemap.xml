@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ddss-40323123.rhcloud.com/static/blog/</loc>
-<lastmod>2016-06-23T09:30:38-00:00</lastmod>
+<lastmod>2016-06-23T09:48:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ddss-40323123.rhcloud.com/static/blog/archives.html</loc>
-<lastmod>2016-06-23T09:30:38-00:00</lastmod>
+<lastmod>2016-06-23T09:48:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ddss-40323123.rhcloud.com/static/blog/tags.html</loc>
-<lastmod>2016-06-23T09:30:38-00:00</lastmod>
+<lastmod>2016-06-23T09:48:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://ddss-40323123.rhcloud.com/static/blog/categories.html</loc>
-<lastmod>2016-06-23T09:30:38-00:00</lastmod>
+<lastmod>2016-06-23T09:48:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -88,21 +88,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ddss-40323123.rhcloud.com/static/blog/tag/40323154.html</loc>
-<lastmod>2016-06-23T09:11:06+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://ddss-40323123.rhcloud.com/static/blog/tag/cdw17.html</loc>
-<lastmod>2016-06-23T09:11:06+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://ddss-40323123.rhcloud.com/static/blog/tag/cdw18.html</loc>
 <lastmod>2016-06-23T09:11:06+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -116,6 +102,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://ddss-40323123.rhcloud.com/static/blog/tag/40323154.html</loc>
+<lastmod>2016-06-23T09:11:06+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://ddss-40323123.rhcloud.com/static/blog/tag/40323199.html</loc>
 <lastmod>2016-06-23T09:11:06+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -123,7 +116,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://ddss-40323123.rhcloud.com/static/blog/tag/40323131.html</loc>
+<loc>http://ddss-40323123.rhcloud.com/static/blog/tag/cdw18.html</loc>
 <lastmod>2016-06-23T09:11:06+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -138,6 +131,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://ddss-40323123.rhcloud.com/static/blog/tag/40323137.html</loc>
+<lastmod>2016-06-23T09:11:06+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://ddss-40323123.rhcloud.com/static/blog/tag/40323131.html</loc>
 <lastmod>2016-06-23T09:11:06+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
