@@ -24,7 +24,7 @@
 組別pelican http://ddss-40323123.rhcloud.com/static/blog/
 
 2D 繪圖 http://cdw13-2014w11.rhcloud.com/ag8_31/gear_31
-            http://cdw13-2014w11.rhcloud.com/ag8_31/eighteenthirty
+        http://ddss-40323123.rhcloud.com/ag8_31/D_link
 
 協同3D齒輪 https://cad.onshape.com/documents/7a70dd4dd16109ce3cb21579/w/fa17d180356837125141668b/e/35aa30428a429cbe32a0791d
 
