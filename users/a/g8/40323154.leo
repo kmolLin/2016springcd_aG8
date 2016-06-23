@@ -12,8 +12,8 @@
 <vnodes>
 <v t="amd.20160501215436.2" a="E"><vh>pelican 部份</vh>
 <v t="amd.20160501215558.1" a="E"><vh>@path ./../../../</vh>
-<v t="amd.20160501223113.1"><vh>@edit README.md</vh></v>
 <v t="amd.20160501215634.1" a="E"><vh>@path static</vh>
+<v t="amd.20160501223113.1"><vh>@edit README.md</vh></v>
 <v t="amd.20160501220009.1" a="E"><vh>假如要送到 gh-pages 分支, 使用下列按鈕</vh>
 <v t="amd.20160501220009.2"><vh>@button gh-pages pelican</vh></v>
 </v>
