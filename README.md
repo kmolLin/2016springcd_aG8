@@ -16,6 +16,17 @@
 
 2D繪圖 http://40323143ag8-40323143.rhcloud.com/ag8_40323143/gear
 
+協同3D齒輪 https://cad.onshape.com/documents/7a70dd4dd16109ce3cb21579/w/fa17d180356837125141668b/e/35aa30428a429cbe32a0791d
+
+40323145
+
+
+個人的pelican http://gear40323145-ds77317.rhcloud.com/static/blog/40323145-cdw11-bao-gao.html
+
+2D繪圖 http://gear40323145-ds77317.rhcloud.com/ag8_40323145/gear
+
+協同3D齒輪 https://cad.onshape.com/documents/dd57fc2aecf7abd4f684869e/w/fd3eaca6216a313ecb82bd75/e/754ec51af67a7d0682831b3a
+
 
 40323131
 
