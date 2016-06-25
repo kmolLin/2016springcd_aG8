@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CD期末考週 網頁 (虎尾科大MDE)</title><link href="http://ddss-40323123.rhcloud.com/static/blog/" rel="alternate"></link><link href="http://ddss-40323123.rhcloud.com/static/blog/feeds/ag8.atom.xml" rel="self"></link><id>http://ddss-40323123.rhcloud.com/static/blog/</id><updated>2016-06-24T16:41:41+08:00</updated><entry><title>40323154 cdw18 期末報告</title><link href="http://ddss-40323123.rhcloud.com/static/blog/40323154-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-24T16:41:41+08:00</updated><author><name>40323154</name></author><id>tag:ddss-40323123.rhcloud.com,2016-06-24:static/blog/40323154-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CD期末考週 網頁 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/ag8.atom.xml" rel="self"></link><id>./</id><updated>2016-06-24T16:41:41+08:00</updated><entry><title>40323154 cdw18 期末報告</title><link href="./40323154-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-24T16:41:41+08:00</updated><author><name>40323154</name></author><id>tag:,2016-06-24:./40323154-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;完成網際2D鏈條組立、2D齒輪囓合及Onshape的3D齒輪囓合&lt;/p&gt;
 &lt;p&gt;2D鏈條
@@ -36,7 +36,7 @@
 我是看著元旭的期末報告來繪製，加上上課有一聽進一部分，因此我鏈條的繪製是這樣產生。
 齒輪方面，老師有提供資料，利用老師所提供的資料來繪製齒輪，在繪製中我們把齒數、節圓半徑、壓力角拉出來當作變數，
 在囓合時，要偏轉一個齒的角度，才可以進行囓合，而且其中心距也是要經過計算才能得到。
-在繪製3D齒輪，由於Onshape有內建的齒輪程式，我們只需要輸入齒輪的參數，就可以直接生成出來，而至於囓合方面，特別注意偏轉角，就可以進行囓合了，再來設定一下齒數比，之後試轉一下，就可以了。&lt;/p&gt;</summary><category term="40323154"></category><category term="cdw18"></category></entry><entry><title>40323143 cdw18 期末報告</title><link href="http://ddss-40323123.rhcloud.com/static/blog/40323143-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-24T16:41:41+08:00</updated><author><name>40323123</name></author><id>tag:ddss-40323123.rhcloud.com,2016-06-24:static/blog/40323143-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+在繪製3D齒輪，由於Onshape有內建的齒輪程式，我們只需要輸入齒輪的參數，就可以直接生成出來，而至於囓合方面，特別注意偏轉角，就可以進行囓合了，再來設定一下齒數比，之後試轉一下，就可以了。&lt;/p&gt;</summary><category term="40323154"></category><category term="cdw18"></category></entry><entry><title>40323143 cdw18 期末報告</title><link href="./40323143-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-24T16:41:41+08:00</updated><author><name>40323123</name></author><id>tag:,2016-06-24:./40323143-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;前言
 自期中後的課程進入2D鏈輪、齒輪及3D齒輪嚙合的繪製，&lt;/p&gt;
@@ -67,7 +67,7 @@
 完成
 &lt;img src="http://i.imgur.com/RrlNocN.png"&gt;&lt;/p&gt;
 &lt;p&gt;心得:
-經過了一整個學期，協同產品設計的課程也接近尾聲，我在這門課學到了許多，卻也有許多沒學成。學到的是關於協同的思想架構，心中也有些關於協同管理待驗證的想法，而沒學成的是實際上配合電腦去實踐這些想法架構的手段，空有想法卻沒有方法也不知道應該怎麼找方法，感覺真是矛盾，對此實在很慚愧。&lt;/p&gt;</summary><category term="40323143"></category><category term="cdw18"></category></entry><entry><title>40323137 cdw18 期末報告</title><link href="http://ddss-40323123.rhcloud.com/static/blog/40323137-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-24T16:41:41+08:00</updated><author><name>40323137</name></author><id>tag:ddss-40323123.rhcloud.com,2016-06-24:static/blog/40323137-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+經過了一整個學期，協同產品設計的課程也接近尾聲，我在這門課學到了許多，卻也有許多沒學成。學到的是關於協同的思想架構，心中也有些關於協同管理待驗證的想法，而沒學成的是實際上配合電腦去實踐這些想法架構的手段，空有想法卻沒有方法也不知道應該怎麼找方法，感覺真是矛盾，對此實在很慚愧。&lt;/p&gt;</summary><category term="40323143"></category><category term="cdw18"></category></entry><entry><title>40323137 cdw18 期末報告</title><link href="./40323137-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-24T16:41:41+08:00</updated><author><name>40323137</name></author><id>tag:,2016-06-24:./40323137-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;期末報告內容:&lt;/p&gt;
 &lt;p&gt;2D齒輪囓合&lt;/p&gt;
@@ -111,7 +111,7 @@
 &lt;p&gt;Onshape 組立: &lt;a href="https://cad.onshape.com/documents/7a70dd4dd16109ce3cb21579/w/fa17d180356837125141668b/e/35aa30428a429cbe32a0791d"&gt;https://cad.onshape.com/documents/7a70dd4dd16109ce3cb21579/w/fa17d180356837125141668b/e/35aa30428a429cbe32a0791d&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;心得：
 今天期末報告，把以前所學濃縮一個小報告中做一個單獨呈現，以簡單的方式去測驗每個人學習成果，才不會互相複製；用這些時間展現組別協同的默契，學習到很多。&lt;/p&gt;
-&lt;p&gt;pelican 網誌位置: &lt;a href="http://cdw11-2014w11.rhcloud.com/static/"&gt;http://cdw11-2014w11.rhcloud.com/static/&lt;/a&gt;&lt;/p&gt;</summary><category term="40323137"></category><category term="cdw18"></category></entry><entry><title>40323131 cdw17 報告</title><link href="http://ddss-40323123.rhcloud.com/static/blog/40323131-cdw17-bao-gao.html" rel="alternate"></link><updated>2016-06-24T16:41:41+08:00</updated><author><name>40323131</name></author><id>tag:ddss-40323123.rhcloud.com,2016-06-24:static/blog/40323131-cdw17-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw17 協同專案&lt;/p&gt;
+&lt;p&gt;pelican 網誌位置: &lt;a href="http://cdw11-2014w11.rhcloud.com/static/"&gt;http://cdw11-2014w11.rhcloud.com/static/&lt;/a&gt;&lt;/p&gt;</summary><category term="40323137"></category><category term="cdw18"></category></entry><entry><title>40323131 cdw17 報告</title><link href="./40323131-cdw17-bao-gao.html" rel="alternate"></link><updated>2016-06-24T16:41:41+08:00</updated><author><name>40323131</name></author><id>tag:,2016-06-24:./40323131-cdw17-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw17 協同專案&lt;/p&gt;
 
 
 &lt;p&gt;期末報告內容:&lt;/p&gt;
@@ -159,7 +159,7 @@
 齒輪方面，首先要先導入資料庫，然後再去跑齒輪的程式，當中我們將齒數、節圓半徑、壓力角拉出來當作變數，其中有畫一條齒輪的基準線是要用來做兩齒輪囓合的時候使用，當然3D方面也是用相同原理進行
 囓合，先將兩條基準線接在一起之後，我們會發現兩齒式接在一起的，再來要偏轉一個齒的角度，才可以進行囓合。
 3D齒輪方面，由於Onshape上的Featurescript裡頭有內建的齒輪程式，所以我們只需要輸入齒輪的參數，就可以直接生成出來，但是齒數過多的話，它跑出來的齒型會有不正確的齒型，算是裡頭內建程式的錯誤，而至於囓合方面，其實就跟2D囓合原理一樣，而至於斜角的嚙合，首先要去推算出將基準線接在一起的轉角之後，再加上偏轉角，就可以進行囓合了，再來設定一下齒數比，之後試轉一下，就可以了。&lt;/p&gt;
-&lt;p&gt;pelican 網誌位置: &lt;a href="http://cdw11-2014w11.rhcloud.com/static/"&gt;http://cdw11-2014w11.rhcloud.com/static/&lt;/a&gt;&lt;/p&gt;</summary><category term="40323131"></category><category term="cdw17"></category></entry><entry><title>40323145 cdw18 期末報告</title><link href="http://ddss-40323123.rhcloud.com/static/blog/40323145-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-24T16:00:06+08:00</updated><author><name>40323145</name></author><id>tag:ddss-40323123.rhcloud.com,2016-06-24:static/blog/40323145-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;pelican 網誌位置: &lt;a href="http://cdw11-2014w11.rhcloud.com/static/"&gt;http://cdw11-2014w11.rhcloud.com/static/&lt;/a&gt;&lt;/p&gt;</summary><category term="40323131"></category><category term="cdw17"></category></entry><entry><title>40323145 cdw18 期末報告</title><link href="./40323145-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-24T16:00:06+08:00</updated><author><name>40323145</name></author><id>tag:,2016-06-24:./40323145-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;期中報告內容:&lt;/p&gt;
 &lt;p&gt;2D鍊條:
@@ -182,7 +182,7 @@
 &lt;p&gt;3D齒輪繪圖:&lt;a href="https://cad.onshape.com/documents/dd57fc2aecf7abd4f684869e/w/fd3eaca6216a313ecb82bd75/e/718656cb7a03781ebc21b1f0"&gt;https://cad.onshape.com/documents/dd57fc2aecf7abd4f684869e/w/fd3eaca6216a313ecb82bd75/e/718656cb7a03781ebc21b1f0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;個人倉儲:&lt;a href="https://github.com/40323145"&gt;https://github.com/40323145&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;自評分數:70&lt;/p&gt;
-&lt;p&gt;心得 :這次用到了許多之前教的東西，而在做2D齒輪時，藍色線一直對不起來，雖然聽完老師說後，感覺是了解了他的原理，但怎麼做還是不知道，而3D齒輪就好些了，設定參數和畫圖，一開始用斜對角的方式讓齒輪相接，但接起來有問題，試很久還是找不出原因，最後還是改成垂直對接，而齒輪的角度調整有點麻煩，咬合方面雖然沒甚麼問題，但感覺還是有些吃到，不知是數值運算上的小差距還是視角問題，不過最後還是順利傳動了。&lt;/p&gt;</summary><category term="40323145"></category><category term="cdw18"></category></entry><entry><title>40323123 cdw18 期末報告</title><link href="http://ddss-40323123.rhcloud.com/static/blog/40323123-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-24T16:00:06+08:00</updated><author><name>40323123</name></author><id>tag:ddss-40323123.rhcloud.com,2016-06-24:static/blog/40323123-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;心得 :這次用到了許多之前教的東西，而在做2D齒輪時，藍色線一直對不起來，雖然聽完老師說後，感覺是了解了他的原理，但怎麼做還是不知道，而3D齒輪就好些了，設定參數和畫圖，一開始用斜對角的方式讓齒輪相接，但接起來有問題，試很久還是找不出原因，最後還是改成垂直對接，而齒輪的角度調整有點麻煩，咬合方面雖然沒甚麼問題，但感覺還是有些吃到，不知是數值運算上的小差距還是視角問題，不過最後還是順利傳動了。&lt;/p&gt;</summary><category term="40323145"></category><category term="cdw18"></category></entry><entry><title>40323123 cdw18 期末報告</title><link href="./40323123-cdw18-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-24T16:00:06+08:00</updated><author><name>40323123</name></author><id>tag:,2016-06-24:./40323123-cdw18-qi-mo-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;前言:
 在設定上的問題會以及Onshape的設定會有許多問題，要一一仔細的檢查，不然就無法讓齒輪旋轉。

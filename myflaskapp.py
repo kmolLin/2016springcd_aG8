@@ -6,15 +6,11 @@ import os
 # init.py 為自行建立的起始物件
 import init
 
-<<<<<<< HEAD
+
 import users.a.g8.ag8_40323145
-=======
->>>>>>> fc26f3d17807b580f90eb21fca07a1e62b09f69e
+import users.a.g8.ag8_40323137
 import users.a.g8.ag8_40323123_task2
 import users.a.g8.ag8_40323154
-
-
-
 import users.a.g8.a40323131
 
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
@@ -386,13 +382,8 @@ def send_file(path):
 if __name__ == "__main__":
     app.run()
 
-<<<<<<< HEAD
 app.register_blueprint(users.a.g8.ag8_40323145.ag8_40323145)
-=======
 app.register_blueprint(users.a.g8.ag8_40323123_task2.ag8_test)
-
 app.register_blueprint(users.a.g8.a40323131.ag8_31)
-
 app.register_blueprint(users.a.g8.ag8_40323154.a40323154)
-
->>>>>>> fc26f3d17807b580f90eb21fca07a1e62b09f69e
+app.register_blueprint(users.a.g8.ag8_40323137.ag8_40323137)
